@@ -1,1 +1,6 @@
-# Venus_Discord-Bot
+# Venus-Discord-Bot
+
+## Installation
+**npm install**
+
+**node .**
