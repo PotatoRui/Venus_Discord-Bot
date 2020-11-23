@@ -1,0 +1,21 @@
+{
+  "name": "Venus",
+  "version": "1.0.0",
+  "description": "Venus",
+  "main": "venus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "start": "forever start main.js",
+  "author": "Ruisu",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "forever": "^3.0.2",
+    "humanize-duration": "^3.23.1",
+    "mysql": "*",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "token": "NzM5NzI2NjU5MzgwNDQ1MzA0.XyeqIw.AysPVDqF7sPhISRtD4eMYlk-KCk",
+  "mysqlHost" : "127.0.0.1",
+  "mysqlUser" : "root",
+  "mysqlPass" : "",
+  "mysqlDB" : "venus",
+  "prefix" : "sv.",
+  "serverid" : "591859735976869888"
+}
